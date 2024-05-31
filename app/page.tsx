@@ -5,6 +5,6 @@ export const metadata = {
 export default function Page() {
   return <>
     <h1>Slug:</h1>
-    <p>Hole Tex</p>
+    <p>HoleTex</p>
   </>;
 }
