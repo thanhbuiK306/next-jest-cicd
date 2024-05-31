@@ -3,8 +3,5 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <>
-    <h1>Slug:</h1>
-    <p>HoleTex</p>
-  </>;
+  return <h1>App Router</h1>;
 }
